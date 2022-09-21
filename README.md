@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vinivini204, in I'm 21 years old.
-- 👀 I’m interested in learning node.js,laravel,flask and angular.
+- 👀 I’m interested in learning node.js, laravel, flask and angular.
 - 🌱 I’m currently learning ...oracleSQL and php basic.
 - 💞️ I’m looking to collaborate on my study and work market.
 - 📫 How to reach me on my istragran "@viniciusdesouzavalente" and my Discord "vinivini204#2504"
